@@ -1,0 +1,55 @@
+
+body{
+    background-image: brickbg.jpg;
+}
+div{
+    width: 290px;
+    height:650px;
+    background-color:black;
+    margin: 100px;
+    color: aliceblue;
+}
+
+#d2{
+    margin-left: 450px;
+    margin-top: -749px;
+} 
+ #d3{
+    margin-left: 811px;
+    margin-top: -749px;
+} 
+ #d4{
+     margin-left: 1170px;
+    margin-top: -749px;
+}
+#d5{
+   
+} 
+ #d6{
+    margin-left: 450px;
+    margin-top: -749px;
+} 
+ #d7{
+    margin-left: 811px;
+    margin-top: -749px;
+} 
+#d8{
+     margin-left: 1170px;
+    margin-top: -749px;
+}  
+img{
+    margin-top: 17px;
+    margin-left:40px;
+    width:200px;
+}
+h1,h2,h3,p{
+    text-align: center;
+    font-family:sans-serif;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+/* body{ 
+  background-image: url("");   
+} */
